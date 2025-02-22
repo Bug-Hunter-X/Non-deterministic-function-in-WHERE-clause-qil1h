@@ -1,0 +1,1 @@
+The SQL query uses a function in the WHERE clause that is not deterministic. This can lead to unpredictable results. A deterministic function always returns the same result for the same input, while a non-deterministic function can return different results for the same input, even within the same query execution.
